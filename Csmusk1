@@ -1,0 +1,4 @@
+#czmusk started
+why="why should Czmusk start a new token ?"
+All = "We love a new meme token"
+print("%s and %s" %(why,All))
